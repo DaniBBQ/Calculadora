@@ -1,6 +1,6 @@
 let numero_1 = prompt("Ingresa el primer numero: ");
 let numero_2 = prompt("Ingresa el segundo numero: ");
-let operacion = prompt("¿Que operacion queire hacer?: ");
+let operacion = prompt("¿Que operacion quiere hacer?: ");
 
 if (operacion == "sumar"){
     let resultado = parseInt(numero_1) + parseInt(numero_2);
